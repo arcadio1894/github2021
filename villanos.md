@@ -4,3 +4,5 @@
 3. Chita
 4. Dumsday
 5. Ares
+6. Enemigo 1
+7. Enemigo 2
