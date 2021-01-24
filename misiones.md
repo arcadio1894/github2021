@@ -11,3 +11,7 @@
 9. Acabar con el plan de Darkside
 10. Encerrar en el hospital a Harley Queen
 11. Encerrar en la cárcel a Joker
+12. Investigar las acciones de Siniestro
+
+13. Encerrar a Siniestro
+14. Encerrar a Darkside
