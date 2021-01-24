@@ -1,9 +1,11 @@
 # Villanos
 1. Joker
 2. Lex Luthor
-3. Chita
-4. Dumsday
-5. Ares
-6. Darkseid
-7. Brainiac
-8. Siniestro
+3. Dumsday
+4. Ares
+5. Darkseid
+6. Brainiac
+7. Siniestro
+8. Lobo
+9. DeathStroke
+10. Harley Queen
