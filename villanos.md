@@ -9,3 +9,4 @@
 8. Lobo
 9. DeathStroke
 10. Harley Queen
+11. El villano nuevo
