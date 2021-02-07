@@ -6,4 +6,5 @@
 * Aquaman
 * Mujer Maravilla
 * Flash
-* Heroe Anónimo
+* SuperGirl
+* Arrow
