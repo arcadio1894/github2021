@@ -14,3 +14,4 @@
 
 15. Enseñar a usar sus poderes a SuperGirl
 * Se le ha dado su traje y esta usando la super fuerza
+* Esta usando aliento helado
