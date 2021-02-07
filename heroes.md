@@ -6,3 +6,4 @@
 * Aquaman
 * Mujer Maravilla
 * Flash
+* Heroe Anónimo
