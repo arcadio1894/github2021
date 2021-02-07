@@ -11,3 +11,6 @@
 
 4. Mejorar instalaciones de la liga de la justicia
 * Gracias a Bruce Wayne se mejoró la sala del edificio de la liga
+
+15. Enseñar a usar sus poderes a SuperGirl
+* Se le ha dado su traje y esta usando la super fuerza
