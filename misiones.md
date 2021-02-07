@@ -15,3 +15,5 @@
 
 13. Encerrar a Siniestro
 14. Encerrar a Darkside
+
+15. Enseñar a usar poderes a SuperGirl
