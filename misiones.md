@@ -18,3 +18,4 @@
 
 15. Enseñar a usar poderes a SuperGirl
 16. Investigar pasado de Linterna verde
+17. Investigar poderes de Linterna verde
